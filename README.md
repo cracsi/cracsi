@@ -11,4 +11,4 @@ LLM integration).
 
 🔭 Currently building: Bills Planner
 🌱 Learning: Go
-📫 Reach me: [criacusil@gmail.com] · [https://www.linkedin.com/in/cristian-acuña-6957491a8/]
+📫 Reach me: criacusil@gmail.com · https://www.linkedin.com/in/cristian-acuña-6957491a8/
