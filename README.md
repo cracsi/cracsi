@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Cristian 👋
 
-<!--
-**cracsi/cracsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with a dual background in Systems Engineering and Industrial
+Engineering. Currently a Service Operation Analyst at Kuvasz Solutions (previously
+Business Service Developer), working with GCP, Linux, PostgreSQL/Oracle, and ACI
+Universal Payments Framework in the financial transactions space.
 
-Here are some ideas to get you started:
+Building a portfolio of projects across the stack I use professionally
+(TypeScript/Next.js/NestJS/PostgreSQL) plus some deliberate depth plays (Java, C++, Go,
+LLM integration).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently building: Bills Planner
+🌱 Learning: Go
+📫 Reach me: [email] · [LinkedIn](https://www.linkedin.com/in/cristian-acuña-6957491a8/)
